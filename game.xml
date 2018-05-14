@@ -1,0 +1,732 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<maps>
+                <map id="0">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib00000000000000000000000000xi</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000www000000000000000000000i</walls>
+                <walls line="-12">i0000wew000000000000000000000i</walls>
+                <walls line="-11">i0000w0w000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i000000000000iiiiiiiiiiiiiiiii</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000w0w000000000000000000000i</walls>
+                <walls line="-3" >i0000wew000000000000000000000i</walls>
+                <walls line="-2" >i0000www000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >iiiiiiiiiiiiiiiiii00000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >ii00000000000000000000000000ii</walls>
+                <walls line="5"  >ie00000000000000000000000000ei</walls>
+                <walls line="6"  >ii00000000000000000000000000ii</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >ii00000000000000000000000000ii</walls>
+                <walls line="10" >ie00000000000000000000000000ei</walls>
+                <walls line="11" >ii00000000000000000000000000ii</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >ii00000000000000000000000000ii</walls>
+                <walls line="15" >ie00000000000000000000000000ei</walls>
+                <walls line="16" >ii00000000000000000000000000ii</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >ik000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">1</door>
+                <door line="19" row="0">2</door>
+                <story>Your are the regimental commander of the tank regiment.You were catched by a monster called gushibeijing and you are now in a Dungeon.Try to escape from here.Good luck.</story>
+            </map>
+            <map id="1">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib22222222222220000000000000ei</walls>
+                <walls line="-18">i4000000000000000000000000000i</walls>
+                <walls line="-17">i40ffffffffffffffffffffffff00i</walls>
+                <walls line="-16">i400rrrrrrrrrrrrrrrrrrrrrr000i</walls>
+                <walls line="-15">i4000000000000000000000000000i</walls>
+                <walls line="-14">i4000ffffffffffffffffffff0000i</walls>
+                <walls line="-13">i40000rrrrrrrrrrrrrrrrrr00000i</walls>
+                <walls line="-12">i4000000000000000000000000000i</walls>
+                <walls line="-11">i000000ffffffffffffffff000000i</walls>
+                <walls line="-10">i0000000rrrrrrrrrrrrrr0000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i00000000ffffffffffff00000000i</walls>
+                <walls line="-7" >i000000000rrrrrrrrrr000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >ie000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i000000000000fff00000iii00000i</walls>
+                <walls line="0"  >0000000000000fxf00000ie000000k</walls>
+                <walls line="1"  >i000000000000fff00000iii00000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >iiiiiiiiiiiiiiiiiiiii00000000i</walls>
+                <walls line="5"  >i000000000000000000ei00000000i</walls>
+                <walls line="6"  >i000000000000000000ei00000000i</walls>
+                <walls line="7"  >i000000000000000000ei00000000i</walls>
+                <walls line="8"  >i0000000000000000000i00000000i</walls>
+                <walls line="9"  >i0000000000000000000i00000000i</walls>
+                <walls line="10" >i0000000000000000000i00000000i</walls>
+                <walls line="11" >i0000000000000000000i00000000i</walls>
+                <walls line="12" >i0000000000000000000i00000000i</walls>
+                <walls line="13" >i0000000000000000000i00000000i</walls>
+                <walls line="14" >i0000000000000000000i00000000i</walls>
+                <walls line="15" >i0000000000000000000i00000000i</walls>
+                <walls line="16" >i0000000000000000000i00000000i</walls>
+                <walls line="17" >i0000000000000000000i00000000i</walls>
+                <walls line="18" >ie000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">0</door>
+                <door line="19" row="0">5</door>
+                <story>There is river... and grass... It's not bad to have a sleep here,right? Even if you will not wake up again.</story>
+            </map>
+            <map id="2">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000eeeee0000100000000000000i</walls>
+                <walls line="-16">i000000000000000000000000k000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000e00i</walls>
+                <walls line="-9" >i0000000000000000000000000e00i</walls>
+                <walls line="-8" >i0000000000000000000000000e00i</walls>
+                <walls line="-7" >i0000000000000000000000000e00i</walls>
+                <walls line="-6" >i0000000000000000000000000e00i</walls>
+                <walls line="-5" >i0000000000000000000000000e00i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000400000000000000000000003000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000x00i</walls>
+                <walls line="11" >i00e0000000000000000000000000i</walls>
+                <walls line="12" >i00e0000000000000000000000000i</walls>
+                <walls line="13" >i00e0000000000000000000000000i</walls>
+                <walls line="14" >i00e0000000000000000000000000i</walls>
+                <walls line="15" >i00e0000000000000000000000000i</walls>
+                <walls line="16" >i00e0000000000000000000000000i</walls>
+                <walls line="17" >i00e0000000000200000eeeeee000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">0</door>
+                <door line="19" row="0">3</door>
+                <story>Oh, what are they?</story>
+            </map>
+            <map id="3">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib00000000000000i000000000000i</walls>
+                <walls line="-18">iiiiiiiiiiiiiii0i000000000000i</walls>
+                <walls line="-17">i0000000000000r0r000000000000i</walls>
+                <walls line="-16">i0000000000000r0r000000000000i</walls>
+                <walls line="-15">i0000000000000r0r000000000000i</walls>
+                <walls line="-14">i0000000000000r0r000000000000i</walls>
+                <walls line="-13">i0000000000000r0r000000000000i</walls>
+                <walls line="-12">i0000000000000r0r000000000000i</walls>
+                <walls line="-11">i0000rrrrrrrrrr0rrrrrrrrrr000i</walls>
+                <walls line="-10">ie00e120000000000000000012e00i</walls>
+                <walls line="-9" >i0000r0rrrrrrrrrrrrrrrrr0r000i</walls>
+                <walls line="-8" >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="-7" >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="-6" >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="-5" >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="-4" >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="-3" >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="-2" >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="-1" >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="0"  >00000r0r00000r000r00000r0r0000</walls>
+                <walls line="1"  >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="2"  >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="3"  >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="4"  >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="5"  >i0000r0r00000r000r00000r0r000i</walls>
+                <walls line="6"  >i0000rxr00000r000r00000rkr000i</walls>
+                <walls line="7"  >i0000rrr00000r000r00000rrr000i</walls>
+                <walls line="8"  >i000000000000r000r00000000000i</walls>
+                <walls line="9"  >i000000000000r000r00000000000i</walls>
+                <walls line="10" >i000000000000r000r00000000000i</walls>
+                <walls line="11" >i000000000000r000r00000000000i</walls>
+                <walls line="12" >i000000000000r000r00000000000i</walls>
+                <walls line="13" >i000000000000r000r00000000000i</walls>
+                <walls line="14" >i0000300000000102000000000300i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">2</door>
+                <story>A shooting range? But who is to be shootedd?</story>
+            </map>
+            <map id="4">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000m0000000xi</walls>
+                <walls line="-18">i00000rrrrrrrrrrrrrrrrrrrrrrri</walls>
+                <walls line="-17">i00000r0000000000000000000000i</walls>
+                <walls line="-16">i00000r0000000000000000000000i</walls>
+                <walls line="-15">i00000r0000000000000000000000i</walls>
+                <walls line="-14">i00000r040000000002000000000ei</walls>
+                <walls line="-13">i00000r0000000000000000000000i</walls>
+                <walls line="-12">i00000r0000000000000000000000i</walls>
+                <walls line="-11">i00000r0000000000000000000000i</walls>
+                <walls line="-10">i00000r0000000020000000000004i</walls>
+                <walls line="-9" >i00000r0000000000000000000000i</walls>
+                <walls line="-8" >i00000r0200000000000000004000i</walls>
+                <walls line="-7" >i00000r0000000000000000000000i</walls>
+                <walls line="-6" >i00000r0000000000000000000000i</walls>
+                <walls line="-5" >i00000r040020000000000000004ei</walls>
+                <walls line="-4" >i00000r0000000000000000000000i</walls>
+                <walls line="-3" >i00000r0200000000000040000000i</walls>
+                <walls line="-2" >i00000r0000000000000000000000i</walls>
+                <walls line="-1" >i00000r0000000000000000000000i</walls>
+                <walls line="0"  >000000r00000000000000000000000</walls>
+                <walls line="1"  >i00000r0000000000000000000000i</walls>
+                <walls line="2"  >i00000r0000000000030000000010i</walls>
+                <walls line="3"  >i00000r000000003000000000000ei</walls>
+                <walls line="4"  >i00000r0000000000000000000000i</walls>
+                <walls line="5"  >i00000r0000000000000000000000i</walls>
+                <walls line="6"  >i00000r0000000000000020000003i</walls>
+                <walls line="7"  >i00000r0000000400000000001000i</walls>
+                <walls line="8"  >i00000r0000000000000000000000i</walls>
+                <walls line="9"  >i00000r0000000000000000000000i</walls>
+                <walls line="10" >i00000r000030020000000000000ei</walls>
+                <walls line="11" >i00000r0000000000000000000000i</walls>
+                <walls line="12" >i00000r0000000000000000000000i</walls>
+                <walls line="13" >i00000r0000000000000000000000i</walls>
+                <walls line="14" >i00000r0000000000000000000000i</walls>
+                <walls line="15" >i00000r0000000000000000000000i</walls>
+                <walls line="16" >i00000r0000000000000000000000i</walls>
+                <walls line="17" >i00000rrrrrrrrrrrrrrrrrrrrrrri</walls>
+                <walls line="18" >ik0000000000000m0000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">1</door>
+                <door line="19" row="0">2</door>
+                <door line="0" row="-15">6</door>
+                <story>What's that laughing black ball? May I touch it?</story>
+            </map>
+            <map id="5">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib00000000000000000000000000xi</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000022222000000011111000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000033333000000000000000000i</walls>
+                <walls line="-11">i00000000000000000iiiiiiiiiiii</walls>
+                <walls line="-10">i000000000000000000000000000ei</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i00000444440000000000000m0000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i000e000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >iiiiiiiiiiiiii000iiiiiiiiiiiii</walls>
+                <walls line="0"  >00e00000000001000200000000e000</walls>
+                <walls line="1"  >iiiiiiiiiiiiii000iiiiiiiiiiiii</walls>
+                <walls line="2"  >i00000000000000m0000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i000002222200e00000e001111100i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i000000e0000000000000000e0000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >ik000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">1</door>
+                <door line="19" row="0">4</door>
+                <door line="0" row="-15">6</door>
+                <story>Oh, black ball!Roll fast!</story>
+            </map>
+            <map id="6">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i0000000000000000000000000000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiiiiiiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">4</door>
+                <door line="0" row="-15">5</door>
+                <story>In the center is a ... snake? I'm the food...Great.</story>
+            </map>
+            <map id="7">
+                <walls line="-20">000000000000000000000000000000</walls>
+                <walls line="-19">000000000000000000000000000000</walls>
+                <walls line="-18">000000000000000000000000000000</walls>
+                <walls line="-17">000000000000000000000000000000</walls>
+                <walls line="-16">000000000000000000000000000000</walls>
+                <walls line="-15">000000000000000000000000000000</walls>
+                <walls line="-14">000000000000000000000000000000</walls>
+                <walls line="-13">000000000000000000000000000000</walls>
+                <walls line="-12">000000000000000000000000000000</walls>
+                <walls line="-11">000000000000000000000000000000</walls>
+                <walls line="-10">000000000000000000000000000000</walls>
+                <walls line="-9" >000000000000000000000000000000</walls>
+                <walls line="-8" >000000000000000000000000000000</walls>
+                <walls line="-7" >000000000000000000000000000000</walls>
+                <walls line="-6" >000000000000000000000000000000</walls>
+                <walls line="-5" >000000000000000000000000000000</walls>
+                <walls line="-4" >000000000000000000000000000000</walls>
+                <walls line="-3" >000000000000000000000000000000</walls>
+                <walls line="-2" >000000000000000000000000000000</walls>
+                <walls line="-1" >000000000000000000000000000000</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >000000000000000000000000000000</walls>
+                <walls line="2"  >000000000000000000000000000000</walls>
+                <walls line="3"  >000000000000000000000000000000</walls>
+                <walls line="4"  >000000000000000000000000000000</walls>
+                <walls line="5"  >000000000000000000000000000000</walls>
+                <walls line="6"  >000000000000000000000000000000</walls>
+                <walls line="7"  >000000000000000000000000000000</walls>
+                <walls line="8"  >000000000000000000000000000000</walls>
+                <walls line="9"  >000000000000000000000000000000</walls>
+                <walls line="10" >000000000000000000000000000000</walls>
+                <walls line="11" >000000000000000000000000000000</walls>
+                <walls line="12" >000000000000000000000000000000</walls>
+                <walls line="13" >000000000000000000000000000000</walls>
+                <walls line="14" >000000000000000000000000000000</walls>
+                <walls line="15" >000000000000000000000000000000</walls>
+                <walls line="16" >000000000000000000000000000000</walls>
+                <walls line="17" >000000000000000000000000000000</walls>
+                <walls line="18" >000000000000000000000000000000</walls>
+                <walls line="19" >000000000000000000000000000000</walls>
+                <story>This is PvP room.</story>
+            </map>
+            <map id="8">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i0000000000000000000000000000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">3</door>
+                <door line="19" row="0">4</door>
+                <door line="0" row="-15">10</door>
+                <door line="0" row="14">11</door>
+                <story>This is room 8</story>
+            </map>
+            <map id="9">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i0000000000000000000000000000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">3</door>
+                <door line="19" row="0">10</door>
+                <story>This is room 9</story>
+            </map>
+            <map id="10">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i0000000000000000000000000000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">8</door>
+                <door line="19" row="0">9</door>
+                <door line="0" row="-15">14</door>
+                <story>This is room 10</story>
+            </map>
+            <map id="11">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i0000000000000000000000000000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">7</door>
+                <door line="19" row="0">8</door>
+                <door line="0" row="-15">13</door>
+                <door line="0" row="14">14</door>
+                <story>This is room 11</story>
+            </map>
+            <map id="12">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i0000000000000000000000000000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">6</door>
+                <door line="19" row="0">7</door>
+                <door line="0" row="-15">13</door>
+                <story>This is room 12</story>
+            </map>
+            <map id="13">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i0000000000000000000000000000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">11</door>
+                <door line="19" row="0">12</door>
+                <door line="0" row="-15">15</door>
+                <story>This is room 13</story>
+            </map>
+            <map id="14">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i0000000000000000000000000000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">10</door>
+                <door line="19" row="0">11</door>
+                <door line="0" row="-15">15</door>
+                <story>This is room 14</story>
+            </map>
+            <map id="15">
+                <walls line="-20">iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <walls line="-19">ib000000000000000000000000000i</walls>
+                <walls line="-18">i0000000000000000000000000000i</walls>
+                <walls line="-17">i0000000000000000000000000000i</walls>
+                <walls line="-16">i0000000000000000000000000000i</walls>
+                <walls line="-15">i0000000000000000000000000000i</walls>
+                <walls line="-14">i0000000000000000000000000000i</walls>
+                <walls line="-13">i0000000000000000000000000000i</walls>
+                <walls line="-12">i0000000000000000000000000000i</walls>
+                <walls line="-11">i0000000000000000000000000000i</walls>
+                <walls line="-10">i0000000000000000000000000000i</walls>
+                <walls line="-9" >i0000000000000000000000000000i</walls>
+                <walls line="-8" >i0000000000000000000000000000i</walls>
+                <walls line="-7" >i0000000000000000000000000000i</walls>
+                <walls line="-6" >i0000000000000000000000000000i</walls>
+                <walls line="-5" >i0000000000000000000000000000i</walls>
+                <walls line="-4" >i0000000000000000000000000000i</walls>
+                <walls line="-3" >i0000000000000000000000000000i</walls>
+                <walls line="-2" >i0000000000000000000000000000i</walls>
+                <walls line="-1" >i0000000000000000000000000000i</walls>
+                <walls line="0"  >000000000000000000000000000000</walls>
+                <walls line="1"  >i0000000000000000000000000000i</walls>
+                <walls line="2"  >i0000000000000000000000000000i</walls>
+                <walls line="3"  >i0000000000000000000000000000i</walls>
+                <walls line="4"  >i0000000000000000000000000000i</walls>
+                <walls line="5"  >i0000000000000000000000000000i</walls>
+                <walls line="6"  >i0000000000000000000000000000i</walls>
+                <walls line="7"  >i0000000000000000000000000000i</walls>
+                <walls line="8"  >i0000000000000000000000000000i</walls>
+                <walls line="9"  >i0000000000000000000000000000i</walls>
+                <walls line="10" >i0000000000000000000000000000i</walls>
+                <walls line="11" >i0000000000000000000000000000i</walls>
+                <walls line="12" >i0000000000000000000000000000i</walls>
+                <walls line="13" >i0000000000000000000000000000i</walls>
+                <walls line="14" >i0000000000000000000000000000i</walls>
+                <walls line="15" >i0000000000000000000000000000i</walls>
+                <walls line="16" >i0000000000000000000000000000i</walls>
+                <walls line="17" >i0000000000000000000000000000i</walls>
+                <walls line="18" >i0000000000000000000000000000i</walls>
+                <walls line="19" >iiiiiiiiiiiiiii0iiiiiiiiiiiiii</walls>
+                <door line="-20" row="0">14</door>
+                <door line="19" row="0">13</door>
+                <story>This is room 15</story>
+            </map>
+	</maps>
+</game>
